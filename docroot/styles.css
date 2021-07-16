@@ -1,0 +1,19 @@
+html,body{
+	margin:0;
+	padding:0;
+}
+
+body{
+	display:flex;
+	height:100vh;
+}
+
+#toolbar{
+	width:20rem;
+	background:#eee;
+}
+
+#canvas{
+	flex:1;
+	background:#444;
+}
